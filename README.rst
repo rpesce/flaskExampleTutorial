@@ -1,30 +1,22 @@
 Flaskr
 ======
 
-This is a copy of the basic blog app built in the Flask `tutorial`_.
+This was built by following the basic blog app built during the Flask tutorial: https://flask.palletsprojects.com/en/1.1.x/tutorial/
 
-.. _tutorial: https://flask.palletsprojects.com/tutorial/
-
-Find the official repo `here`_.
-
-.. _tutorial: https://github.com/rpesce/flask/tree/master/examples/tutorial
+Official repo: https://github.com/rpesce/flask/tree/master/examples/tutorial
 
 
 Install
 -------
 
-**Be sure to use the same version of the code as the version of the docs
-you're reading.** You probably want the latest tagged version, but the
-default Git version is the master branch. ::
-
     # clone the repository
     $ git clone https://github.com/rpesce/flaskExampleTutorial.git
     $ cd flask-tutorial
 
+
 Install Flaskr::
 
     $ pip install -e .
-
 
 Run
 ---
