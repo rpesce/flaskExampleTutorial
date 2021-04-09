@@ -9,7 +9,8 @@ Official repo: https://github.com/rpesce/flask/tree/master/examples/tutorial
 Install
 -------
 
-    # clone the repository
+Close the repo::
+
     $ git clone https://github.com/rpesce/flaskExampleTutorial.git
     $ cd flask-tutorial
 
